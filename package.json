@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gtkri.github.io/cyber-portfolio/",
+  "homepage": "https://www.gautamkrishna.com.np/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
