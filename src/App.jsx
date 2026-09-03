@@ -133,7 +133,7 @@ const EDUCATION = [
   {
     title: "MSc Cyber Security",
     org: "Brandenburgische Technische Universität Cottbus-Senftenberg",
-    date: "2024 — 2026",
+    date: "2025 — Now",
     status: "In Progress",
     detail:
       "Modules include Network Security, Cryptography, Ethical Hacking, Process Architecture.",
@@ -151,24 +151,24 @@ const CERTIFICATIONS = [
   {
     title: "CompTIA Security+",
     org: "CompTIA",
-    date: "2024",
-    status: "Completed",
+    date: "2026 (Target)",
+    status: "In Progress",
     detail: "Foundational security certification covering risk management, threat analysis, and security operations.",
   },
   {
-    title: "Certified Ethical Hacker (CEH)",
+    title: "ISC2 CC — Certified in Cybersecurity",
     org: "EC-Council",
-    date: "2025",
-    status: "Completed",
-    detail: "Validated skills in ethical hacking methodologies and penetration testing techniques.",
-  },
-  {
-    title: "OSCP — Offensive Security Certified Professional",
-    org: "Offensive Security",
     date: "2026 (Target)",
     status: "In Progress",
-    detail: "Hands-on penetration testing certification — currently preparing via HackTheBox and personal lab.",
+    detail: "Validated skills in ethical hacking methodologies and penetration testing techniques.",
   },
+  // {
+  //   title: "OSCP — Offensive Security Certified Professional",
+  //   org: "Offensive Security",
+  //   date: "2026 (Target)",
+  //   status: "In Progress",
+  //   detail: "Hands-on penetration testing certification — currently preparing via HackTheBox and personal lab.",
+  // },
 ];
 
 /* ════════════════════════════════════════════════════════════════
